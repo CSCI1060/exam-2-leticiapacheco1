@@ -1,2 +1,13 @@
-Use this file to submit the extra credit problem. Be sure to describe your
-process for solving the problem, and not just to give the solution. 
+Decrypted message:
+"I WISH IT NEED NOT HAVE HAPPENED IN MY TIME," SAID FRODO. "SO DO I," SAID GANDALF, "AND SO DO ALL WHO LIVE TO SEE SUCH TIMES. BUT THAT IS NOT FOR THEM TO DECIDE. ALL WE HAVE TO DECIDE IS WHAT TO DO WITH THE TIME THAT IS GIVEN, US."
+
+Decryption process:
+1. Identified this as a Caesar Cipher with a shift of 3 letters backward
+2. Key observations that helped:
+   - Pattern of quotation marks and common words
+   - Frequency of letters matched English patterns
+   - Recognized "FRODO" and "GANDALF" as likely words from Lord of the Rings
+3. Shifted each letter back by 3 positions in the alphabet
+   (For example: L -> I, Z -> W, etc.)
+
+This is a famous quote from J.R.R. Tolkien's "The Lord of the Rings"
